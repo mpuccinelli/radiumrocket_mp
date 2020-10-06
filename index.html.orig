@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coronavirus: England highest level of excess deaths</title>
+</head>
+<body>
+    <!-- HEADING -->
+    <h1>Coronavirus: England highest level of excess deaths</h1>
+    <h5>30 July 2020 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <button><a href="https://www.facebook.com" target="_blank">f</a></button>
+        <button><a href="https://www.facebook.com" target="_blank">M</a></button>
+        <button><a href="https://www.twitter.com" target="_blank">t</a></button>
+        <button><a href="https://www.gmail.com" target="_blank">@</a></button>
+        <button>Share</button>
+    
+    </h5>
+    <button><a href="https://www.bbc.com/news/coronavirus" target="_blank">Coronavirus Pandemic</a></button>
+    <br><br>
+    <img src="1.jpg">
+    <p>
+        <strong>UK saw some of the biggest rises in deaths rates in Europe in the months until the middle of June, official analysis shows.</strong> 
+        <br><br>
+        England saw the largest increase in death rates in Europe, with Scotland seeing the third largest increase.
+        <br><br>
+        The <strong><a href="https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/comparisonsofallcausemortalitybetweeneuropeancountriesandregions/januarytojune2020" target="_blank">Office for National Statistics says</a></strong> that Spain saw the highest peak in rates of death in Europe.
+        <br><br>
+        But the UK had the longest period of above-average deaths and so overall saw higher death rates.
+    </p>
+    <img src="2.jpg" alt="">
+</body>
+</html>
